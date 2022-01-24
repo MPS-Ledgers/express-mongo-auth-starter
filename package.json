@@ -1,7 +1,7 @@
 {
-  "name": "ziagro-backend",
+  "name": "express-mongo-auth-starter",
   "version": "1.0.0",
-  "description": "A NodeJS backend for Ziagro",
+  "description": "A starter repo for Express, MongoDB authentication",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gokhulnath/ziagro-backend.git"
+    "url": "git+https://github.com/MPS-Ledgers/express-mongo-auth-starter.git"
   },
   "author": "StackFit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gokhulnath/ziagro-backend/issues"
+    "url": "https://github.com/MPS-Ledgers/express-mongo-auth-starter/issues"
   },
-  "homepage": "https://github.com/Gokhulnath/ziagro-backend#readme",
+  "homepage": "https://github.com/MPS-Ledgers/express-mongo-auth-starter#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
